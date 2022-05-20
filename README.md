@@ -6,7 +6,7 @@
 - looking to collaborate on projects that I can get passionate about.
 
 Here's how to reach me:
-  email: jashburn00@gmail.com
+  jashburn00@gmail.com
 
 <!---
 jashburn00/jashburn00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
