@@ -6,8 +6,8 @@
 - looking to collaborate on projects where I can learn and create  
 
 Here's how to reach me:
-  jashburn00@gmail.com
-
+  Email: jashburn00@gmail.com
+  LinkedIn: https://www.linkedin.com/in/jack-ashburn-b642b3222/
 <!---
 jashburn00/jashburn00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
