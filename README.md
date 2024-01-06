@@ -1,9 +1,9 @@
   Hi, I’m Jack Ashburn. I am:
   
-- attending the University of Colorado at Boulder, and expect to graduate in May 2023.
-- interested in software development, and have always been fascinated by game mechanics.
-- currently interning as a junior software engineer.
-- looking to collaborate on projects that I can get passionate about.
+- a computer science graduate from the University of Colorado at Boulder 
+- interested in software development, and have always been fascinated by video game logic & balancing
+- currently a temp working in software development & Microsoft Business Central, based in San Diego
+- looking to collaborate on projects where I can learn and create  
 
 Here's how to reach me:
   jashburn00@gmail.com
