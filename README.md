@@ -14,6 +14,8 @@ Here's how to reach me:
 Check out my side projects:
 
   scope-highlighter: https://marketplace.visualstudio.com/items?itemName=jashburn00.scope-highlighter
+
+  DnD Helper: https://github.com/jashburn00/DnDHelper
   
   WeatherWear: https://jashburn00.github.io/WeatherWear/
 <!---
