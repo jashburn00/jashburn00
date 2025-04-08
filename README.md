@@ -11,7 +11,7 @@ Here's how to reach me:
   
   LinkedIn: https://www.linkedin.com/in/jack-ashburn-b642b3222/
 
-Check out my side projects:
+Check out my personal projects:
 
   scope-highlighter: https://marketplace.visualstudio.com/items?itemName=jashburn00.scope-highlighter
 
