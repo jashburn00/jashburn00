@@ -1,15 +1,15 @@
   Hi, I’m Jack Ashburn. I am:
   
 - a computer science graduate from the University of Colorado at Boulder 
-- interested in software development, and have always been fascinated by video game logic & balancing
-- formerly a junior software developer based in San Diego, and have moved back to Colorado
-- looking to collaborate on projects where I can learn and create  
+- interested in software engineering and full stack development
+- formerly a junior software engineer based in San Diego, and have moved back to Colorado
+- looking to bulid, create, explore, and grow
 
 Here's how to reach me:
 
   Email: jashburn00@gmail.com
   
-  LinkedIn: https://www.linkedin.com/in/jack-ashburn-b642b3222/
+  LinkedIn: https://www.linkedin.com/in/jashburn00/
 
 Check out my personal projects:
 
