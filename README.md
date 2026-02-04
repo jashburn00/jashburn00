@@ -1,9 +1,8 @@
   Hi, I’m Jack Ashburn. I am:
   
 - a computer science graduate from the University of Colorado at Boulder 
-- interested in software engineering and full stack development
-- formerly a junior software engineer based in San Diego, and have moved back to Colorado
-- looking to bulid, create, explore, and grow
+- based in the Denver area and love the outdoors
+- passionate about building and exploring software and systems
 
 Here's how to reach me:
 
