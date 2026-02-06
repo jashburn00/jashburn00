@@ -2,7 +2,7 @@
   
 - a computer science graduate from the University of Colorado at Boulder 
 - based in the Denver area and love the outdoors
-- passionate about building and exploring software and systems
+- passionate about building, supporting, and exploring software and systems
 
 Here's how to reach me:
 
