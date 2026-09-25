@@ -3,7 +3,7 @@
 - a software engineer based in the Denver area
 - passionate about building software, tinkering, new tech, and continual learning
 - a CU Boulder alumnus
-- a lover of the outdoors a good board/tabletop game
+- a lover of the outdoors and a good board/tabletop game
 
 Here's how to reach me:
 
